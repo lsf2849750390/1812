@@ -1,0 +1,2 @@
+webpackJsonp([6],{aPCx:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"right1"},[this._v("\r\n    22222\r\n")])},staticRenderFns:[]};var i=n("C7Lr")({name:"right",data:function(){return{}}},r,!1,function(t){n("iRE1")},"data-v-637ccc15",null);e.default=i.exports},iRE1:function(t,e){}});
+//# sourceMappingURL=6.ddb33b78c9de2c82f584.js.map
